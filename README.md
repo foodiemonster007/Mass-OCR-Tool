@@ -22,7 +22,7 @@ This tool helps you convert text from images into a digital format, especially f
 
 3.  Enter Your API Key: When the program opens, it will ask for the Google API key you got earlier. This is a crucial step; the tool won't work without it.
 
-4.  Edit the settings according to the instructions below, and hit Run Process.
+4. Edit the settings according to the instructions below, and hit Run Process.
 
 You can also improve the quality of the text conversion by adjusting the settings in the program:
 
